@@ -1,0 +1,5 @@
+i:\users\mendoza amaya.desktop-h1jhf9m\documents\visual studio 2012\Projects\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Visual Studio 2012\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.csprojResolveAssemblyReference.cache
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Visual Studio 2012\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.Form1.resources
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Visual Studio 2012\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+I:\Users\MENDOZA AMAYA.DESKTOP-H1JHF9M\Documents\Visual Studio 2012\Projects\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.Cache
